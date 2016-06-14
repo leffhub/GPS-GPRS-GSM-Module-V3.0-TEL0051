@@ -1,0 +1,1 @@
+If you want to stack TEL0051 onto Arduino Leonardo, please modify all the code from Serial.xxx() to Serial1.xxx() to adapt it with Leonardo.
